@@ -76,12 +76,12 @@ main {
 }
 
 .weather-app-temperature {
-  font-size: 88px;
+  font-size: 6px;
   margin-left: 10px;
   font-weight: bold;
 }
 
-.weatehr-app-unit {
+.weather-app-unit {
   margin-top: 16px;
   font-size: 28px;
 }
